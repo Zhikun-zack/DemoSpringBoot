@@ -1,7 +1,10 @@
 package com.example.demo.dao;
 
 import com.example.demo.model.Person;
+import org.springframework.stereotype.Component;
+
 import java.util.UUID;
+
 
 public interface PersonDao {
 
